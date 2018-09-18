@@ -1,0 +1,36 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Avanish Tiwari avanishtiwari38@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^33.0.0",
+    "slackbots": "^1.1.0",
+    "youtube-node": "^1.3.2"
+  },
+  "devDependencies": {},
+  "description": "Slackbot that is used to handle youtube videos like show trending videos, search videos, show related videos.",
+  "keywords": [
+    "slackbot",
+    "youtube",
+    "videos",
+    "trending",
+    "search",
+    "related",
+    "channel",
+    "bot",
+    "node.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanishtiwari38/slackbot-youtube-video-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avanishtiwari38/slackbot-youtube-video-nodejs/issues"
+  },
+  "homepage": "https://github.com/avanishtiwari38/slackbot-youtube-video-nodejs#readme"
+}
